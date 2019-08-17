@@ -5,11 +5,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's blog starter
+Codemunch.io
 </h1>
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
+I've included the default readme info below if you are interested in how to create and deploy a Gatsby site.
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
@@ -90,8 +89,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## 💫 Deploy
+## 💫 Deploy Status
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d29893f0-a0af-4204-a8c0-4b5e8f8223cf/deploy-status)](https://app.netlify.com/sites/vigilant-hermann-d9a32e/deploys)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
