@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `CodeMunch.io`,
     author: `Benjamin Benkert`,
-    description: `Byte size bits of learning for new developers`,
+    description: `Byte sized bits of learning for new developers`,
     siteUrl: `https://codemunch.io`,
     social: {
       twitter: `benjaminbenkert`,
