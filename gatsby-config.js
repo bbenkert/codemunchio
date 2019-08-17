@@ -62,7 +62,7 @@ module.exports = {
         short_name: `CodeMunch.io`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#1b5f8b`,
         display: `minimal-ui`,
         icon: `content/assets/code.png`,
       },
