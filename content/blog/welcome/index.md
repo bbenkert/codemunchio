@@ -1,7 +1,7 @@
 ---
 title: Welcome
 date: "2019-08-17"
-description: "Welcome to CodeMunch.io <a href='/welcome'>[Read More...]</a>"
+description: "Welcome to CodeMunch.io <br/><a href='/welcome'>[Read More...]</a>"
 ---
 
 ## Welcome Code Munchers!!
