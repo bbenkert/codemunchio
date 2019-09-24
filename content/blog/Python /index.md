@@ -29,4 +29,4 @@ Python is fun, easy to learn, and very powerful.  If you have little to no progr
 - Classic Computer Science Problems in Python<br/>
 https://www.amazon.com/Classic-Computer-Science-Problems-Python/dp/B07WC5185D
 
-If you have any suggested books or other resources feel free to contact me. <a href='https://twitter.com/benjaminbenkert'>@benjaminbenkert</a> 
+If you have any suggestions for books or other resources feel free to contact me. <a href='https://twitter.com/benjaminbenkert'>@benjaminbenkert</a> 
