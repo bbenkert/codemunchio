@@ -34,3 +34,4 @@ https://www.amazon.com/Classic-Computer-Science-Problems-Python/dp/B07WC5185D
 - Talk Python To Me https://talkpython.fm/
 - Python Bytes https://pythonbytes.fm
 
+If you have any suggestions for books or other resources feel free to contact me. <a href='https://twitter.com/benjaminbenkert'>@benjaminbenkert</a> 
