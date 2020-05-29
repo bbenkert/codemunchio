@@ -1,6 +1,6 @@
 ---
 title: Python Learning Resources
-date: "2019-09-23"
+date: "2020-05-29"
 description: "I have compiled a list of useful Python resources. These resources have been invaluable to me. <br/><a href='/Python%20/'>[Read More...]</a>"
 ---
 
