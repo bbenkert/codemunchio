@@ -1,7 +1,7 @@
 ---
-title: Python Learning Resources
+title: Javascript Learning Resources
 date: "2020-05-29"
-description: "I have compiled a list of useful Python resources. These resources have been invaluable to me. <br/><a href='/Python%20/'>[Read More...]</a>"
+description: "Javascript is a fun to use fun to learn language. Here are some resources to get you started. <br/><a href='/=Javascript/'>[Read More...]</a>"
 ---
 
 ## Where to start
