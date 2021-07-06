@@ -5,7 +5,7 @@ module.exports = {
     description: `Byte sized bits of learning for new developers`,
     siteUrl: `https://codemunch.io`,
     social: {
-      twitter: `benjaminbenkert`,
+      twitter: `Codemunchio`,
     },
   },
   plugins: [`gatsby-plugin-netlify-cms`],
