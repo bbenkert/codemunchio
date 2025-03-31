@@ -3,17 +3,18 @@
   <a href="https://www.gatsbyjs.org">
     <img alt="Code" src="content/assets/code.png"/>
   </a>
-</p>
-<h1 align="center">
-This project has been permanently discontinued.
-</h1>
-<p>Due to inactivity and other interests I have moved on from this project. It was super fun to build this project and it has inspired me to work on other things.</p>
-<h2 align="center">
-Codemunch.io <br/> Byte sized learning for new developers
-</h2>
-<p>
-CodeMunch.io's purpose is to help new developers answer some questions they have when first starting to code. Many resources on the web are over complicated and just dont answer the simple questions in a way that makes sense.  
-</p>
+# Codemunch.io (Discontinued)
+
+> **Note:** This project has been **permanently discontinued**.  
+> Due to inactivity and shifting interests, I’ve decided to move on from this project.  
+> It was super fun to build and has inspired me to work on other things.
+> See my other project DevChase
+
+## About Codemunch.io
+
+**Byte-sized learning for new developers**
+
+The goal of Codemunch.io was to help new developers find clear, simple answers to the questions they often have when starting out. Many online resources are overly complex and fail to explain basic concepts in a way that makes sense. Codemunch.io aimed to fill that gap with beginner-friendly content.
 
 ## 💫 Deploy Status
 
